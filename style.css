@@ -152,6 +152,7 @@
   /*ESTILO DO TOPO DO SITE*/
   section.topo-do-site {
     padding: 80px 4%;
+      heigth: 100vh;
   }
   
   section.topo-do-site .flex {
